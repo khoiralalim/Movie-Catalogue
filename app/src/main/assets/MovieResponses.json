@@ -1,0 +1,75 @@
+{
+  "movies": [
+    {
+      "movieId": "a14",
+      "title": "Welcome to Sudden Death",
+      "overview": "Jesse Freeman is a former special forces officer and explosives expert now working a regular job as a security guard in a state-of-the-art basketball arena. Trouble erupts when a tech-savvy cadre of terrorists kidnap the team's owner and Jesse's daughter during opening night. Facing a ticking clock and impossible odds, it's up to Jesse to not only save them but also a full house of fans in this highly charged action thriller.",
+      "production": "09/29/2020 (US)",
+      "imagePath": "https://image.tmdb.org/t/p/w1280/elZ6JCzSEvFOq4gNjNeZsnRFsvj.jpg"
+    },
+    {
+      "movieId": "a55",
+      "title": "Enola Holmes",
+      "overview": "While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.",
+      "production": "09/23/2020 (US)",
+      "imagePath": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/riYInlsq2kf1AWoGm80JQW5dLKp.jpg"
+    },
+    {
+      "movieId": "a47",
+      "title": "Hard Kill",
+      "overview": "The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.",
+      "production": "08/25/2020 (US)",
+      "imagePath": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugZW8ocsrfgI95pnQ7wrmKDxIe.jpg"
+    },
+    {
+      "movieId": "a74",
+      "title": "Money Plane",
+      "overview": "A professional thief with $40 million in debt and his family's life on the line must commit one final heist - rob a futuristic airborne casino filled with the world's most dangerous criminals.",
+      "production": "09/29/2020 (KR)",
+      "imagePath": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CoRTJTmijhBLJTUNoVSUNxZMEI.jpg"
+    },
+    {
+      "movieId": "a51",
+      "title": "Archive",
+      "overview": "2038: George Almore is working on a true human-equivalent AI, and his latest prototype is almost ready. This sensitive phase is also the riskiest as he has a goal that must be hidden at all costs—being reunited with his dead wife.",
+      "production": "08/13/2020 (RU)",
+      "imagePath": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDnHgozW8vfOaLHzfpHluf1GZCW.jpg"
+    },
+    {
+      "movieId": "a552",
+      "title": "Enola Holmes",
+      "overview": "While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.",
+      "production": "09/23/2020 (US)",
+      "imagePath": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/riYInlsq2kf1AWoGm80JQW5dLKp.jpg"
+    },
+    {
+      "movieId": "a141",
+      "title": "Welcome to Sudden Death",
+      "overview": "Jesse Freeman is a former special forces officer and explosives expert now working a regular job as a security guard in a state-of-the-art basketball arena. Trouble erupts when a tech-savvy cadre of terrorists kidnap the team's owner and Jesse's daughter during opening night. Facing a ticking clock and impossible odds, it's up to Jesse to not only save them but also a full house of fans in this highly charged action thriller.",
+      "production": "09/29/2020 (US)",
+      "imagePath": "https://image.tmdb.org/t/p/w1280/elZ6JCzSEvFOq4gNjNeZsnRFsvj.jpg"
+    },
+    {
+      "movieId": "a744",
+      "title": "Money Plane",
+      "overview": "A professional thief with $40 million in debt and his family's life on the line must commit one final heist - rob a futuristic airborne casino filled with the world's most dangerous criminals.",
+      "production": "09/29/2020 (KR)",
+      "imagePath": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CoRTJTmijhBLJTUNoVSUNxZMEI.jpg"
+    },
+    {
+      "movieId": "a515",
+      "title": "Archive",
+      "overview": "2038: George Almore is working on a true human-equivalent AI, and his latest prototype is almost ready. This sensitive phase is also the riskiest as he has a goal that must be hidden at all costs—being reunited with his dead wife.",
+      "production": "08/13/2020 (RU)",
+      "imagePath": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDnHgozW8vfOaLHzfpHluf1GZCW.jpg"
+    },
+    {
+      "movieId": "a473",
+      "title": "Hard Kill",
+      "overview": "The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.",
+      "production": "08/25/2020 (US)",
+      "imagePath": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugZW8ocsrfgI95pnQ7wrmKDxIe.jpg"
+    }
+
+  ]
+}

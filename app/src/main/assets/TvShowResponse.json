@@ -1,0 +1,74 @@
+{
+  "tvshows": [
+    {
+      "tvshowId": "b14",
+      "title": "The Boys",
+      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+      "production": "Sci-Fi & Fantasy, Action & Adventure",
+      "imagePath": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "tvshowId": "b55",
+      "title": "The Walking Dead: World Beyond",
+      "overview": "A heroic group of teens sheltered from the dangers of the post-apocalyptic world leave the safety of the only home they have ever known and embark on a cross-country journey to find the one man who can possibly save the world.",
+      "production": "Drama, Sci-Fi & Fantasy",
+      "imagePath": "https://image.tmdb.org/t/p/w1280/z31GxpVgDsFAF4paZR8PRsiP16D.jpg"
+    },
+    {
+      "tvshowId": "b47",
+      "title": "Scorpion",
+      "overview": "Based on a true story, Scorpion is a high-octane drama about eccentric genius Walter O’Brien and his team of brilliant misfits who comprise the last line of defense against complex, high-tech threats of the modern age. As Homeland Security’s new think tank, O’Brien’s “Scorpion” team includes Toby Curtis, an expert behaviorist who can read anyone; Happy Quinn, a mechanical prodigy; and Sylvester Dodd, a statistics guru.",
+      "production": "Action & Adventure, Drama, Crime",
+      "imagePath": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzeirSF6bRjssDh5JFrm5WRwFLd.jpg"
+    },
+    {
+      "tvshowId": "b74",
+      "title": "The Walking Dead",
+      "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+      "production": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+      "imagePath": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgjP2OrrX9gc6M270xdPnEmE9tC.jpg"
+    },
+    {
+      "tvshowId": "b51",
+      "title": "The Good Doctor",
+      "overview": "A young surgeon with Savant syndrome is recruited into the surgical unit of a prestigious hospital. The question will arise: can a person who doesn't have the ability to relate to people actually save their lives?",
+      "production": "Drama",
+      "imagePath": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/53P8oHo9cfOsgb1cLxBi4pFY0ja.jpg"
+    },{
+      "tvshowId": "b141",
+      "title": "The Boys",
+      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+      "production": "Sci-Fi & Fantasy, Action & Adventure",
+      "imagePath": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "tvshowId": "b515",
+      "title": "The Good Doctor",
+      "overview": "A young surgeon with Savant syndrome is recruited into the surgical unit of a prestigious hospital. The question will arise: can a person who doesn't have the ability to relate to people actually save their lives?",
+      "production": "Drama",
+      "imagePath": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/53P8oHo9cfOsgb1cLxBi4pFY0ja.jpg"
+    },
+    {
+      "tvshowId": "b744",
+      "title": "The Walking Dead",
+      "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+      "production": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+      "imagePath": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgjP2OrrX9gc6M270xdPnEmE9tC.jpg"
+    },
+    {
+      "tvshowId": "b473",
+      "title": "Scorpion",
+      "overview": "Based on a true story, Scorpion is a high-octane drama about eccentric genius Walter O’Brien and his team of brilliant misfits who comprise the last line of defense against complex, high-tech threats of the modern age. As Homeland Security’s new think tank, O’Brien’s “Scorpion” team includes Toby Curtis, an expert behaviorist who can read anyone; Happy Quinn, a mechanical prodigy; and Sylvester Dodd, a statistics guru.",
+      "production": "Action & Adventure, Drama, Crime",
+      "imagePath": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzeirSF6bRjssDh5JFrm5WRwFLd.jpg"
+    },
+    {
+      "tvshowId": "b552",
+      "title": "The Walking Dead: World Beyond",
+      "overview": "A heroic group of teens sheltered from the dangers of the post-apocalyptic world leave the safety of the only home they have ever known and embark on a cross-country journey to find the one man who can possibly save the world.",
+      "production": "Drama, Sci-Fi & Fantasy",
+      "imagePath": "https://image.tmdb.org/t/p/w1280/z31GxpVgDsFAF4paZR8PRsiP16D.jpg"
+    }
+
+  ]
+}
